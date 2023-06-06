@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 38b5c2f743cd8034a8beeebf277c92c1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rigidbody2d: {instanceID: 0}
+  - Panel: {fileID: 8503923652396199715, guid: 9f57c454913c5224aba1e81330ac7980, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
